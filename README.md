@@ -2,7 +2,7 @@ Cross-species-biomarker-genes-emerge-from-a-systems-biology-approach-to-osteoart
 
 Structure
 
-  1.code/ contains the code for normalizing individual datasets and performing cross-species transcriptome analyess
+  1.code/ contains the code for cleaning, adjusting and normalizing individual datasets and performing cross-species transcriptome analyess
   
   2.raw_data/ contains individual-level study data for microarray, RNAseq, and single-cell RNAseq
   
