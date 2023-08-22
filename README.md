@@ -10,4 +10,4 @@ Structure
   
   4.working_data/ contains intermediary files
 
-*available upone publication
+*available upon publication
