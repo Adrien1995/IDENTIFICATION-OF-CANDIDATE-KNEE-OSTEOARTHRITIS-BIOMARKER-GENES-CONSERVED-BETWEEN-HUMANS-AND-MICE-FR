@@ -1,4 +1,4 @@
-Cross-species-biomarker-genes-emerge-from-a-systems-biology-approach-to-osteoarthritis-
+IDENTIFICATION OF CANDIDATE KNEE OSTEOARTHRITIS BIOMARKER GENES CONSERVED BETWEEN HUMANS AND MICE FROM A CROSS-SPECIES SYSTEMS ANALYSIS
 
 Structure
 
